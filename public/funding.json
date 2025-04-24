@@ -1,0 +1,11 @@
+[
+    { "year": 2019, "industry": "AI", "amount": 200000 },
+    { "year": 2019, "industry": "Fintech", "amount": 300000 },
+    { "year": 2020, "industry": "AI", "amount": 250000 },
+    { "year": 2020, "industry": "Fintech", "amount": 200000 },
+    { "year": 2021, "industry": "AI", "amount": 275000 },
+    { "year": 2021, "industry": "Fintech", "amount": 180000 },
+    { "year": 2022, "industry": "HealthTech", "amount": 300000 },
+    { "year": 2022, "industry": "Fintech", "amount": 350000 }
+  ]
+  
